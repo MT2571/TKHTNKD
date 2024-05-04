@@ -5,3 +5,5 @@
 /build/*
 /sdkconfig
 /sdkconfig.old
+/ble_mqtt/build/*
+/ble_mqtt/.vscode
